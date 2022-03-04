@@ -1,7 +1,7 @@
 
 # Customer Statement
 
-#### Features
+#### Basic
 
 - I want to be able to focus only on what I am doing for the day (reading, hw, etc.)
 - Lock me out of everthing that is not what I am supposed to be focused on
@@ -19,4 +19,8 @@
 
 #### Other
 
+- sync between desktop and mobile
 
+#### Conclusion
+
+- In general I want an application that not only helps me study but maybe even gives me motivation and makes learning "fun". Personally I have had a hard time having motivation to learn/study and have seen school as just something to get through rather than a learning experience. Basically, hopefully this app will raise grades and raise an interest in studying, or at the very least not make school so painful.
