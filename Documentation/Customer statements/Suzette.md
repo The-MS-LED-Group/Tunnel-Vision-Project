@@ -12,6 +12,7 @@ From meeting with Martin, Eric, and I (3/4/2022)
   - Basic secrity
   - Encripted (???) 
 - To login to this app, we would want user to use an email unrelated to other social media/google agorithm/predictive algorithm. Seperate from what the internet knows about you.
+- Certifications for courses on the app (???)
 - Tree diagram of searches you made during your session so you can go back and see a big picture image of your learning process.
   - Ex: Spotify end of year review (reverse engineer it)
   - Tracks your searches and braches out when you make a new search
