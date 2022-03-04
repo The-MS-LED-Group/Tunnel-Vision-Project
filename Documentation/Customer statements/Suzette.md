@@ -1,18 +1,49 @@
 
+From meeting with Martin, Eric, and I (3/4/2022)
 - Focus on a task/topic relevant to the user
   - Task: ex HW
-    - Canvas TODO list
+    - Create your own TODO list on the app
     - Upload your own schedule/syllubus
   - Topic: ex Calculus 3
   - Category: ex Math
-- Note Taking
-- "Blocks" unsolicited/unrelated links
+- Note Taking:
+  - Maybe our own text editor for experience?
+- Security:
+  - Basic secrity
+  - Encripted (???) 
+- To login to this app, we would want user to use an email unrelated to other social media/google agorithm/predictive algorithm. Seperate from what the internet knows about you.
+- Tree diagram of searches you made during your session so you can go back and see a big picture image of your learning process.
+  - Ex: Spotify end of year review (reverse engineer it)
+  - Tracks your searches and braches out when you make a new search
+  - Cluster or Scatterplot diagram of your progress once a month (or set to custom)
+  - A diagram that you can look at and "point at" to see where you were confused or where you need more time/help/focus.
+- "Blocks" unsolicited/unrelated links (kind of like incognito)
+  - Unsolicited:  
+    - No ads: If you don't have it blocked, we won't block it. If you do have it blocked, we won't show ads.
+    - No unrelated topics (obviously): No Kim K. No makeup videos. Even if it is something you've looked at before.
+- "Block" out specified apps/notifications unrealted to your goal
+  - Goal being to stay focused
+    - Either on a time
+      - Soft timer: Doesn't notify when minimum time you set is up. (So it doesn't interrupt your flow state)
+        Use this if you know you want to get a lot done; past your minimum time 
+      - Hard timer: Does notify when minimum time you set is up. (So you know your minimim time is up)
+        Use this if you only want to x amount of work done and no more.
+    - Or an amount of pages you want to read
+    - Or a set amount of pages you want to see
+ - Select apps that could be considered "focused"
+  - Focused:
+    - Ex: discord
+    - Ex: slack
+    - Ex: Outlook
+    - Ex: Teams
+    - Ex: Google Slides, Google Docs., etc.
 - Finds more related links for my specified Category, Topic, Task
+- Make it very hard/annoying to get off task or off the page you need to be on
 - Display:
   - Color scheme
-  - Layout choices
+  - Layout template/Customized layout choices
   - Font choices
-- NOs:
+ - NOs:
   - Don't lock screen without break option
-  - 
-  
+  - Don't delete stuff
+  - Don't share my information ($$$???)
