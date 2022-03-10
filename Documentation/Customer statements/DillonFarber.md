@@ -24,4 +24,4 @@
 - Eventually make an extension to have a lock down when in a class zoom call using an identifier for the zoom call as lecture code.
 - for underage access, need to make sure that sites are not parsed and find inaproperate material that the websites, video, pictures, written content, etc.. is not shown in  any form on the application.
 - Software will run on desktop/mobile hardware to allow for versitality of applications for users to use. 
-
+- color should have stress relieving effect, such as colors that are soft and relaxing to look at. Giving users a option for color palettes. 
