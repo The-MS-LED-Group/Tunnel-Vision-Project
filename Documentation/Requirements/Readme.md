@@ -1,14 +1,20 @@
 # Requirements 
 
-## Specifying requirements for Tunnel Vission software
+## Specifying requirements for Tunnel Vision software
 
-### 1. 
-#### 1.1 Functional Requirements: Parse internet sites for preferred tags in search
-#### 1.2 Non-Functional Requirements: Displays previous videos watched by user
+### 1. User Requirements
+#### 1.1 Functional Requirements: 
+##### 1.1.1 Parse internet sites for preferred tags in search
 
-### 2.
+#### 1.2 Non-Functional Requirements: 
+##### 1.2.1 Displays previous videos watched by user
+###### - Description 
+##### 1.2.2 Save preferred searches/videos
+###### - Description
+
+### 2. System Requirements
 #### 2.1 Functional Requirements: 
-#### 2.2 Non-Functional Requirements: Save preferred searches/videos
+#### 2.2 Non-Functional Requirements: 
 
 ### 3.
 #### 3.1 Functional Requirements: 
