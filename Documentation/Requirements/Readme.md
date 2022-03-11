@@ -5,12 +5,12 @@
 ### 1. User Requirements
 
 #### 1.1 Functional Requirements: 
-##### 1.1.1 Parse internet sites for preferred tags in search
+###### 1.1.1 Parse internet sites for preferred tags in search
       - Description
 
 #### 1.2 Non-Functional Requirements: 
 
-##### 1.2.1 Displays previous videos watched by user
+###### 1.2.1 Displays previous videos watched by user
        - Description 
 ###### 1.2.2 Save preferred searches/videos
        - Description
