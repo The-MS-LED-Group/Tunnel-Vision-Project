@@ -35,6 +35,7 @@
 ###### 2.1.4 User is unable to move away from specified topic and specialized subjects chosen at the beginning of session.
       - Description
       
+      
 #### 2.2 Non-Functional Requirements: 
 
 ###### 2.2.1 Ability for note taking with supporting OS
