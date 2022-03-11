@@ -36,7 +36,18 @@
 
 ### 9.
 #### 9.1 Functional Requirements:
-#### 9.2 Non-Functional Requirements: 
+#### 9.2 Non-Functional Requirements: User is unable to minimize or exit out of app while session is running.
+
+### 10.
+#### 10.1 Fucntional Requirements:
+#### 10.2 Non-Functional Requirements: User is unable to move away from specified topic and specialized subjects chosen at the beginning of session.
+
+### 11.
+#### 11.1 Functional Requirements: 
+#### 11.2 Non-Functional Requirements: 
+
+
+
 
 
 
