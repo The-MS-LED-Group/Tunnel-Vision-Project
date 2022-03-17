@@ -1,5 +1,3 @@
-
-From meeting with Martin, Eric, and I (3/4/2022)
 - Focus on a task/topic relevant to the user
   - Task: ex HW
     - Create your own TODO list on the app
