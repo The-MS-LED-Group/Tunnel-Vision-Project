@@ -18,3 +18,4 @@ The largest requirements would be aiding those who are easily distracted get the
    Having a search field that checks metadata for topics to ensure it has something to do with what the user is currently working on.
 - User set primary tabs/Windows
    I see this being the tab/Window that has an assignment or required reading. Generally the current task for the user. This would be what additional tabs use as reference to ensure it has something to do with the task at hand.
+   
