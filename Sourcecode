@@ -1,0 +1,21 @@
+from tkinter import *
+
+window=Tk()
+
+class GUITV:
+    def __init__(self, win):
+
+        self.btn1 = Button(window, text="Search")
+        self.btn1.place(x=250, y=0)
+
+        self.btn2 = Button(window, text="Advanced Search")
+        self.btn2.place(x=0, y=0)
+
+        txtfld = Entry(window, text="Type search here", bd = 5)
+        txtfld.place(x=299, y=0)
+
+mywin=GUITV(window)
+window.title('Tunnel Vision')
+window.geometry("500x500")
+
+window.mainloop()
