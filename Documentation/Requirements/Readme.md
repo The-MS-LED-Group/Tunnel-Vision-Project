@@ -122,9 +122,8 @@
       - applications such as gaming applications will be locked down and other non-educational applications. 
 ###### 2.2.8 The application will have a collection of usernames to create a leaderboard based on achievements. 
       - This will be congruent across all systems, and applications, with a network call. 
-###### 2.2.9 The login to system will be encrypted, prompting users for a username and password, all further communication with application will be encrypted per 
-application and site standards. 
-      - login into tunnel vision, canvas, webassign, pearson, etc. 
+###### 2.2.9 The login to system will be encrypted, prompting users for a username and password, all further communication with application will be encrypted per application and site standards. 
+      - Login into the sites canvas, webassign, etc will have the encryption logins per applications prefernce. 
 ###### 2.2.10 Intergration to applications with social features, such as discord, slack, teams, google products, and emails.
       - This will provide a collaboration to the focus mode, allowing for further help and functionality to the application. 
 
